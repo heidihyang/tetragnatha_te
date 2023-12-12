@@ -1,0 +1,16 @@
+LTR	4044225
+LINE	5698842
+SINE	702544
+DNA	14846878
+MITE	0
+Helitron	1320037
+rRNA	404060
+Low_Complexity	300451
+Satellite	1084668
+Tandem_repeats	0
+Simple_repeat	192854
+others	48643370
+na	11992109
+Others	0
+Total	161735733
+
